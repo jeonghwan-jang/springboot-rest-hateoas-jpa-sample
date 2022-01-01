@@ -1,0 +1,14 @@
+[[book-add]]
+=== Book Add API
+신규 도서를 등록합니다.
+
+==== Request Sample
+include::{snippets}/book-add/curl-request.adoc[]
+include::{snippets}/book-add/http-request.adoc[]
+include::{snippets}/book-add/httpie-request.adoc[]
+==== Request Fields Example
+include::{snippets}/book-add/request-fields.adoc[]
+==== Response Sample
+include::{snippets}/book-add/http-response.adoc[]
+==== Response Fields Example
+include::{snippets}/book-add/response-fields.adoc[]

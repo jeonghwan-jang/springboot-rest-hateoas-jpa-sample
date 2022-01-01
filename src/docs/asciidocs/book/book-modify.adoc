@@ -1,0 +1,17 @@
+[[book-modify]]
+=== Book Modify API
+도서 카테고리를 수정합니다.
+
+==== Request Sample
+include::{snippets}/book-modify/curl-request.adoc[]
+include::{snippets}/book-modify/http-request.adoc[]
+include::{snippets}/book-modify/httpie-request.adoc[]
+==== Request Fields Example
+===== Path Parameters
+include::{snippets}/book-modify/path-parameters.adoc[]
+===== Request Body
+include::{snippets}/book-modify/request-fields.adoc[]
+==== Response Sample
+include::{snippets}/book-modify/http-response.adoc[]
+==== Response Fields Example
+include::{snippets}/book-modify/response-fields.adoc[]

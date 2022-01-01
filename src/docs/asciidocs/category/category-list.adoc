@@ -1,0 +1,12 @@
+[[category-list]]
+=== Category List API
+카테고리 목록 정보를 반환합니다.
+
+==== Request Sample
+include::{snippets}/category-list/curl-request.adoc[]
+include::{snippets}/category-list/http-request.adoc[]
+include::{snippets}/category-list/httpie-request.adoc[]
+==== Response Sample
+include::{snippets}/category-list/http-response.adoc[]
+==== Response Fields Example
+include::{snippets}/category-list/response-fields.adoc[]

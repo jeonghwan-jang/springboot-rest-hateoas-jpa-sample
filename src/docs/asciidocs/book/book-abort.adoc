@@ -1,0 +1,14 @@
+[[book-abort]]
+=== Book Abort API
+도서 대여를 중단합니다.
+
+==== Request Sample
+include::{snippets}/book-abort/curl-request.adoc[]
+include::{snippets}/book-abort/http-request.adoc[]
+include::{snippets}/book-abort/httpie-request.adoc[]
+==== Request Fields Example
+include::{snippets}/book-abort/request-fields.adoc[]
+==== Response Sample
+include::{snippets}/book-abort/http-response.adoc[]
+==== Response Fields Example
+include::{snippets}/book-abort/response-fields.adoc[]

@@ -1,0 +1,14 @@
+[[book-list]]
+=== Book List API
+도서 목록 정보를 반환합니다.
+
+==== Request Sample
+include::{snippets}/book-list/curl-request.adoc[]
+include::{snippets}/book-list/http-request.adoc[]
+include::{snippets}/book-list/httpie-request.adoc[]
+==== Request Fields Example
+include::{snippets}/book-list/request-parameters.adoc[]
+==== Response Sample
+include::{snippets}/book-list/http-response.adoc[]
+==== Response Fields Example
+include::{snippets}/book-list/response-fields.adoc[]

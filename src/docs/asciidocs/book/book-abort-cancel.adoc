@@ -1,0 +1,14 @@
+[[book-abort-cancel]]
+=== Book Abort Cancel API
+도서 대여 중단을 취소합니다.
+
+==== Request Sample
+include::{snippets}/book-abort-cancel/curl-request.adoc[]
+include::{snippets}/book-abort-cancel/http-request.adoc[]
+include::{snippets}/book-abort-cancel/httpie-request.adoc[]
+==== Request Fields Example
+include::{snippets}/book-abort-cancel/request-fields.adoc[]
+==== Response Sample
+include::{snippets}/book-abort-cancel/http-response.adoc[]
+==== Response Fields Example
+include::{snippets}/book-abort-cancel/response-fields.adoc[]

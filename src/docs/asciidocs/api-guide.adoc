@@ -1,0 +1,19 @@
+= Book RESTful API Guide
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectnums:
+:sectlinks:
+:sectanchors:
+
+== Book
+include::./book/book-list.adoc[]
+include::./book/book-detail.adoc[]
+include::./book/book-add.adoc[]
+include::./book/book-modify.adoc[]
+include::./book/book-abort.adoc[]
+include::./book/book-abort-cancel.adoc[]
+== Category
+include::./category/category-list.adoc[]
